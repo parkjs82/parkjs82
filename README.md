@@ -1,24 +1,22 @@
-<!-- Solved.ac -->
+# 안녕하세요, 저는 박준서입니다 👋
 
-<!-- languages -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjs82&layout=compact&theme=radical) -->
+사람들의 일상이 더 편해지도록,좋은 서비스에 기여하는 개발자가 되고싶습니다.
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjs82)](https://github.com/anuraghazra/github-readme-stats) -->
+## 🌱 Education
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjs82&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&exclude_repo=OS_Lock,MIPS-pipeline-processor-simulator,Snake_Game) -->
+- 국민대학교 소프트웨어학부 - 2019.02 ~ 2025.02
+- 삼성청년SW아카데미 SSAFY 13th  - 2025.01 ~ 진행중
 
-# 안녕하세요, 저는 [이름]입니다 👋
+## 📚 Projects
+PLATFORM GIPS: 생성형 침입 방지 기술기반 보안 플랫폼 [Link](https://github.com/parkjs82/PLATFORM-GIPS "PLATFORM-GIPS")
 
-## 🚀 About Me
+Traflix: 나의 내일로 여행 동반자 [Front](https://github.com/parkjs82/Traflix-web "Traflix-front") / [Back](https://github.com/parkjs82/Traflix-backend "Traflix-Back")
 
-- 🔭 현재 [회사/학교]에서 [역할/전공]을 하고 있습니다
-- 🌱 요즘 배우고 있는 것: [기술/언어]
-- 👯 협업하고 싶은 분야: [분야]
-- 🤔 도움이 필요한 부분: [주제]
-- 💬 저에게 물어보세요: [주제]
-- 📫 연락 방법: [이메일/연락처]
-- 😄 대명사: [he/him, she/her, they/them 등]
-- ⚡ 재미있는 사실: [재미있는 사실]
+## 📊 Stats
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkray3)](https://solved.ac/profile/parkray3/)
+<img src="https://github-readme-stats.vercel.app/api?username=parkjs82&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="height:170px;">
+
 
 ## 🛠 Skills
 
@@ -39,22 +37,4 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-## 📊 Stats
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkray3)](https://solved.ac/profile/parkray3/)
-<img src="https://github-readme-stats.vercel.app/api?username=parkjs82&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="height:170px;">
-
-## 📚 Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parkjs82&repo=PLATFORM-GIPS)](https://github.com/parkjs82/PLATFORM-GIPS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parkjs82&repo=Traflix-web)](https://github.com/parkjs82/Traflix-web)
-
-## 📫 Contect Me
-
-<p>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com"/></a>
-  <a href="https://www.linkedin.com/in/%EC%A4%80%EC%84%9C-%EB%B0%95-985476275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  
 </p>
