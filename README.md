@@ -1,21 +1,33 @@
 # 안녕하세요, 저는 박준서입니다 👋
 
-사람들의 일상이 더 편해지도록,좋은 서비스에 기여하는 개발자가 되고싶습니다.
-
-## 🌱 Education
-
-- 국민대학교 소프트웨어학부 - 2019.02 ~ 2025.02
-- 삼성청년SW아카데미 SSAFY 13th  - 2025.01 ~ 진행중
+사람들의 일상이 더 편해지도록, 편리함이라는 가치를 전달하는 개발자가 되고싶습니다.\
+서비스가 언제나 안정적으로 작동할 수 있는 인프라를 구축하는 것에 관심이 있습니다.
 
 ## 📚 Projects
+
 PLATFORM GIPS: 생성형 침입 방지 기술기반 보안 플랫폼 [Link](https://github.com/parkjs82/PLATFORM-GIPS "PLATFORM-GIPS")
 
 Traflix: 나의 내일로 여행 동반자 [Front](https://github.com/parkjs82/Traflix-web "Traflix-front") / [Back](https://github.com/parkjs82/Traflix-backend "Traflix-Back")
 
+## 🏆 Award & License
+
+- 2025 삼성청년SW/AI아카데미 프로젝트 우수상 “MeetHub"
+- 2025 삼성청년SW/AI아카데미 프로젝트 우수상 “틔움"
+- 2025 삼성청년SW/AI아카데미 프로젝트 우수상 “FreshBid"
+- 2023 관광데이터 활용공모전 장려상
+### 
+- 정보처리기사 | 한국산업인력공단
+- SQLD | 한국데이터산업진흥원
+
+## 🌱 Education
+
+- 국민대학교 소프트웨어학부 - 2019.02 ~ 2025.02
+- 삼성청년SW아카데미 SSAFY 13th  - 2025.01 ~ 2025.12
+
 ## 📊 Stats
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkray3)](https://solved.ac/profile/parkray3/)
-<img src="https://github-readme-stats.vercel.app/api?username=parkjs82&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="height:170px;">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=parkjs82&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="height:170px;"> -->
 
 
 ## 🛠 Skills
